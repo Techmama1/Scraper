@@ -1,1 +1,5 @@
 # Scraper
+
+MongoDB
+
+Heroku
